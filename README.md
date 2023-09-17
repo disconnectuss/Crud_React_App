@@ -1,4 +1,6 @@
 ## Crud App 
+![ezgif com-video-to-gif (5)](https://github.com/disconnectuss/Crud_React_App/assets/129686850/390b37ec-2a11-4657-ba2b-4915884148a5)
+
 Create Read Update Delete: A react app allowing the users to add, edit and remove the books, including npm toastify notifications. Add your books to the store and enjoy reading!!
 
 - create the html codes of header and form elements | do the styling with bootstrap
